@@ -4,6 +4,10 @@ package cn.baoshun.demo04;
 * 方法的重载：Overload
 * 多个方法的名称一样，参数列表不一样
 * 好处：只需要记住一个方法名称，就可以实现类似的功能
+* 方法重载与下列因素有关：
+* 1、参数个数不同
+* 2、参数类型不同
+* 3、参数的多类型顺序不同
 * */
 public class Demo01MethodOverload {
     public static void main(String[] args) {
